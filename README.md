@@ -27,4 +27,4 @@ npm run dev
 ```
 
 
-Desarrollado por [Andes Cloud](https://andescloud.io) — Especialistas en el ecosistema Salesforce.
+Desarrollado por [Andes Cloud](https://andescloud.io) — Especialistas en el ecosistema Salesforce & Agentforce.
