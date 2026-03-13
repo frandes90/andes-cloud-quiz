@@ -1,6 +1,6 @@
 # Andes Cloud — Salesforce Ecosystem Quiz
 
-Quiz interactivo para profesionales del ecosistema Salesforce, desarrollado por **Andes Cloud**.
+Quiz interactivo para profesionales del ecosistema Salesforce, desarrollado por **Andes Cloud** Partner Oficial de Salesforce.
 
 ## ¿De qué se trata?
 
